@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;PackageServer.IXServer.java&apos; to &apos;IXServerTest.java&apos;&#x0D;&#x0A;- Original project: &apos;week5_1&apos;&#x0D;&#x0A;- Original element: &apos;PackageServer.IXServer.java&apos;&#x0D;&#x0A;- Renamed element: &apos;PackageServer.IXServerTest.java&apos;" description="Rename compilation unit &apos;IXServer.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;PackageServer{IXServer.java" name="IXServerTest.java" references="false" stamp="1648526636183" version="1.0"/>
+</session>
